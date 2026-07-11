@@ -1,6 +1,7 @@
 # purple-blooms
 Interactive generative flower visuals built with TouchDesigner
 # 🌸 Purple Bloom
+> *"Someone I knew likes purple."* 💜
 
 Want to make one yourself? Just clone or download this repository.
 
@@ -12,7 +13,6 @@ Press **Play** to experience the visuals.
 
 If you enjoy this project, please consider ⭐ starring my repository. 😁
 
-> *"Someone I knew likes purple."* 💜
 
 An interactive visual created with **TouchDesigner**.
 
