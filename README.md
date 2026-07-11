@@ -14,6 +14,11 @@ You don't need to worry about coding or setting up the TouchDesigner network—e
 
 Download and install TouchDesigner, then open the `my yash/touchdesign-purpleblooms` folder and download all the files . click on `purpleFlowersAAr.toe`. and  It will open automatically in TouchDesigner.
 
+This project requires `MediaPipe.tox`, which is too large to be hosted directly on GitHub.
+
+1. Download `MediaPipe.tox` from the latest Release 
+2. Place it inside the toxes folder i.e yash:touchdesign-purpleblooms/toxes/
+
 Press **Play** to experience the visuals.
 
 If you enjoy this project, please consider ⭐ starring my repository. 😁
