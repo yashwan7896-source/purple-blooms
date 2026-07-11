@@ -1,5 +1,7 @@
 
 
+
+
 # 🌸 Purple Bloom
 
 *Interactive generative flower visuals built with TouchDesigner.*
@@ -46,3 +48,7 @@ This project was created to explore interactive visuals, creative coding, and re
 ---
 
 > *"Someone I knew likes purple."* 💜
+
+https://github.com/user-attachments/assets/0429eb10-a9af-4c86-afce-9e571bc182d5
+
+
