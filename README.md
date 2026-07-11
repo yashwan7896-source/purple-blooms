@@ -12,7 +12,7 @@ Want to make one yourself? Just clone or download this repository.
 
 You don't need to worry about coding or setting up the TouchDesigner network—everything is already configured.
 
-Download and install TouchDesigner, then open the `my yash/touchdesign-purpleblooms` folder and double-click `purpleFlowersAAr.toe`. It will open automatically in TouchDesigner.
+Download and install TouchDesigner, then open the `my yash/touchdesign-purpleblooms` folder and download all the files . click on `purpleFlowersAAr.toe`. and  It will open automatically in TouchDesigner.
 
 Press **Play** to experience the visuals.
 
