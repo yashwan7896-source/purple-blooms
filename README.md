@@ -3,9 +3,13 @@ Interactive generative flower visuals built with TouchDesigner
 # 🌸 Purple Bloom
 
 Want to make one yourself? Just clone or download this repository.
+
 You don't need to worry about coding or setting up the TouchDesigner network—everything is already configured.
+
 Download and install TouchDesigner, then open the `my yash/touchdesign-purpleblooms` folder and double-click `purpleFlowersAAr.toe`. It will open automatically in TouchDesigner.
+
 Press **Play** to experience the visuals.
+
 If you enjoy this project, please consider ⭐ starring my repository. 😁
 
 
