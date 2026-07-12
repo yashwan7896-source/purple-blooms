@@ -30,7 +30,7 @@ This project uses real-time particle and flower effects to create a calm, atmosp
 
 ## 📷 Preview
 
-*A short demo video is included in this repository.*
+*A short demo video is included in this repository.* ( end of this readme  a link is provided )
 
 
 ## ✨ Features
