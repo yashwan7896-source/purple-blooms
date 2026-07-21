@@ -1,5 +1,15 @@
 
 
+https://github.com/user-attachments/assets/8f815506-730a-42eb-9cbc-708a249b18f2
+
+
+
+
+
+
+
+
+
 
 
 # 🌸 Purple Bloom
@@ -52,6 +62,8 @@ This project uses real-time particle and flower effects to create a calm, atmosp
 
 > *"Someone I knew likes purple."* 💜
 
+
+https://github.com/user-attachments/assets/8f815506-730a-42eb-9cbc-708a249b18f2
 
 
 
