@@ -47,9 +47,6 @@ This project uses real-time particle and flower effects to create a calm, atmosp
 - Real-time Rendering
 
 
-## 🎯 Purpose
-
-This project was created to explore interactive visuals, creative coding, and real-time graphics using TouchDesigner.
 
 ---
 
